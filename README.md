@@ -21,4 +21,3 @@ You will need to create **two functions**:
 
 - Generate a **random number** for each die that has `data-active="true"`.  
 - Update the `src` and `alt` attributes of the `<img>` accordingly.
-
